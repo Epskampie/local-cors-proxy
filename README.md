@@ -1,3 +1,7 @@
+yarn run start --proxyUrl https://stpe.staging.semantic-treehouse.nl --credentials --origin='http://localhost:4200' --cookie=PHPSESSID=1234
+
+
+
 # Local CORS Proxy
 
 Simple proxy to bypass CORS issues. This was built as a local dev only solution to enable prototyping against existing APIs without having to worry about CORS.
